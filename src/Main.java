@@ -14,6 +14,5 @@ public class Main {
         String ipAdresa = "192.168.10.40";// IP adresa verze 4 firemního počítače.
         //Více o formátu IP adresy verze 4 viz například IP adresa verze 4;
         System.out.println(celkoveProdaneMrkve/pocetSmluv);
-        System.out.println("testcommit");
     }
 }
